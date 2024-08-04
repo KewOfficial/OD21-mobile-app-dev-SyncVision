@@ -14,4 +14,6 @@
     <string name="already_have_account">Already have an account? Login</string>
     <string name="switch_theme">Switch Theme</string>
     <string name="logo_desc">App Logo</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="confirm_password">Confirm password</string>
 </resources>
